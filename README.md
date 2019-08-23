@@ -3,11 +3,12 @@
 
 **About:**
 This is a realtime chat app built using React.
-Users are able to join group and can message others users in a realtime.
+Users are able to join group and can message other users in a realtime.
 
 **Technology Stack:**
 * React
-* Firebase
+* Firebase Realtime Database
+* Firebase Authentication
 * Webpack
 * MObX
 * Materialize 
